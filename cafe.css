@@ -1,0 +1,55 @@
+Body{
+    background:url(rest.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+header{
+    widows: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.head{
+    float:left;
+    color:#fff;
+    font-family: cursive;
+}
+ul{
+    float: right;
+}
+li{
+    display:inline;
+    padding: 1rem;
+    color:white;
+    text-decoration: none; 
+    font-weight: bold;
+}
+.welcome{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 1%;
+}
+h1{
+    color:white;
+    font-family: cursive;
+    text-align: center;
+}
+.welcome h3{
+    color:white;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.menu{
+    color:black;
+    margin-top: 5%;
+    display:flex;
+    text-align: center;
+    font-family: cursive;
+}
+img{
+    width: 70%;
+    border-radius: 50%;
+}
+.tilapia,.soup,.spaghetti,.salad{
+    padding-left: 1rem;
+}
